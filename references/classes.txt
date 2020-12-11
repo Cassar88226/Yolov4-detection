@@ -1,0 +1,6 @@
+Person
+Car
+Bus
+Truck
+Vehicle registration plate
+Human face
